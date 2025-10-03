@@ -20,6 +20,4 @@ A simple backend API built with FastAPI for managing tasks.
 
 \- In-memory database (list) for simplicity
 
-\- Well-structured FastAPI project suitable for learning and CV demonstration
-
 \- Auto-generated API documentation via Swagger UI
